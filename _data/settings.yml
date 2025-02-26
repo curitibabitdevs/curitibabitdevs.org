@@ -4,6 +4,6 @@ tagline: 'BitDevs é uma comunidade para aqueles interessados em discutir e part
 menu:
   - {name: 'Sobre', url: '/about'}
   - {name: 'Eventos', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
+  # - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/curitibabitdevs/', external: true}
   # - {name: 'Cities', url: '/cities'}
