@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Deixei alguns trechos originais do bitdevsnyc a fins de tradução caso seja interessante no futuro. -->
-BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados. Você pode ser familiarizado ou iniciante nos tópicos, ambos são bem vindos. Tenha em mente: a discussão será técnica
+BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados. Você pode ser familiarizado ou iniciante nos tópicos, ambos são bem vindos. O foco dos encontros é a discussão técnica.
 
 ### Seminários Socráticos
 
