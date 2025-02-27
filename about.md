@@ -2,35 +2,26 @@
 layout: default
 ---
 
-BitDevs is a community for those interested in discussing and participating in
-the research and development of Bitcoin and related protocols. You can be well
-versed with or new to the topics, all are welcome. Be advised: discussion will
-be technical.
+<!-- Deixei alguns trechos originais do bitdevsnyc a fins de tradução caso seja interessante no futuro. -->
+BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados. Você pode ser familiarizado ou iniciante nos tópicos, ambos são bem vindos. O foco dos encontros é a discussão técnica.
 
-### Socratic Seminars
+### Seminários Socráticos
 
-Our monthly Socratic Seminar events are formatted to foster debate, information
-sharing and lively discussion. In the weeks preceding the event, discussion
-topics are collated by meetup members from a variety of sources: pull requests
-in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. After a period of discussion, some events will have [presentations](https://bitdevs.org/presenter-guidelines/) of open source
-projects, companies, research and other relevant content. A feedback and Q&A
-section follow. After the event the group gathers at a nearby restaurant to
-socialize.
+Nossos Seminários Socráticos mensais são formatados para promover o debate, compartilhamento de informações e discussão ao vivo. Nas semanas que precedem o evento, os tópicos de discussão são coletados pelos membros do meetup de uma variedade de fontes: pull requests em repositórios git populares (ex: Bitcoin Core, lnd, c-lightning, Joinmarket, Elements Alpha e Electrum), artigos de pesquisa, blog posts técnicos, logs IRC, monitores de rede, entre outros. Depois de um período de discussão, alguns eventos terão apresentações de projetos open source, empresas, pesquisas e outros conteúdos relevantes. A seguir vem um feedback e seção de perguntas e respostas. Depois do evento, o grupo se reune em um restaurante próximo para socializar.
+<!-- Adicionar  e traduzir https://curitibabitdevs.org/presenter-guidelines/ -->
 
-A newsletter is sent out the day of the event which outlines discussion topics.
+É recomendado que você esteja familiarizado com alguns conceitos básicos do Bitcoin para tirar o máximo proveito dos nossos Seminários Socráticos. Uma boa fonte para estes conceitos é o livro [mastering bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)
+
+<!-- A newsletter is sent out the day of the event which outlines discussion topics.
 Archives of discussion topics and presentations can be found in the event
 descriptions of past meetups. The discussion portion of the event is NEVER
 recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
-in order to extract the most value from our Socratic events.
+in order to extract the most value from our Socratic events. -->
 
-Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
-are different requirements for presentations depending on the nature of the
-project.
+Por favor, entre em contato com os organizadores se você gostaria de apresentar em um futuro evento Socrático ou tem um tópico recomendado para a discussão<!-- Adicionar e-mail do projeto -->. Há requisitos diferentes para apresentações a depender da natureza do projeto.
 
-### Whitepaper Series
+
+<!-- ### Whitepaper Series
 
 A journal club to discuss specific topics in the Bitcoin ecosystem. This is an
 academic-style journal club where one person chooses a topic or paper and
@@ -47,9 +38,8 @@ Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
 material can be suggested.
 
 To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
+bitdevsnyc at gmail. -->
 
-### Debate Series
+### Série de Debates
 
-Our debate series is dedicated to the investigation of controversial technical
-topics. The structure of the event is dependent on the topic of interest.
+Nossas séries de debate são dedicadas à investifação de tópicos técnicos controversos. A estrutura do evento é dependente do tópico de interesse.
