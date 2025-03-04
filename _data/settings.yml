@@ -5,5 +5,5 @@ menu:
   - {name: 'Sobre', url: '/about'}
   - {name: 'Eventos', url: '/events'}
   # - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/curitibabitdevs/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/curitiba-bitdevs/', external: true}
   # - {name: 'Cities', url: '/cities'}
