@@ -7,7 +7,7 @@ BitDevs é uma comunidade para aqueles interessados em discutir e participar na 
 
 ### Seminários Socráticos
 
-Nossos Seminários Socráticos mensais são formatados para promover o debate, compartilhamento de informações e discussão ao vivo. Nas semanas que precedem o evento, os tópicos de discussão são coletados pelos membros do meetup de uma variedade de fontes: pull requests em repositórios git populares (ex: Bitcoin Core, lnd, c-lightning, Joinmarket, Elements Alpha e Electrum), artigos de pesquisa, blog posts técnicos, logs IRC, monitores de rede, entre outros. Depois de um período de discussão, alguns eventos terão apresentações de projetos open source, empresas, pesquisas e outros conteúdos relevantes. A seguir vem um feedback e seção de perguntas e respostas. Depois do evento, o grupo se reune em um restaurante próximo para socializar.
+Nossos Seminários Socráticos mensais são formatados para promover o debate, compartilhamento de informações e discussão ao vivo. Nas semanas que precedem o evento, os tópicos de discussão são coletados pelos membros do meetup de uma variedade de fontes: pull requests em repositórios git populares (ex: Bitcoin Core, lnd, c-lightning, Joinmarket, Elements Alpha e Electrum), artigos de pesquisa, blog posts técnicos, logs IRC, monitores de rede, entre outros. Depois de um período de discussão, alguns eventos terão apresentações de projetos open source, empresas, pesquisas e outros conteúdos relevantes. A seguir vem um feedback e seção de perguntas e respostas. Depois do evento, o grupo se reúne em um restaurante próximo para socializar.
 <!-- Adicionar  e traduzir https://curitibabitdevs.org/presenter-guidelines/ -->
 
 É recomendado que você esteja familiarizado com alguns conceitos básicos do Bitcoin para tirar o máximo proveito dos nossos Seminários Socráticos. Uma boa fonte para estes conceitos é o livro [mastering bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)
@@ -42,4 +42,4 @@ bitdevsnyc at gmail. -->
 
 ### Série de Debates
 
-Nossas séries de debate são dedicadas à investifação de tópicos técnicos controversos. A estrutura do evento é dependente do tópico de interesse.
+Nossas séries de debate são dedicadas à investigação de tópicos técnicos controversos. A estrutura do evento é dependente do tópico de interesse.
