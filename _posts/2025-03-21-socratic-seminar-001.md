@@ -44,5 +44,5 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/306539175"
 - [Antoine Poinsot on Bitcoin Core’s Priorities](https://delvingbitcoin.org/t/antoine-poinsot-on-bitcoin-cores-priorities/1470)
 - [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
 - [dlcdevkit beyond](https://bennyb.dev/blog/dlcdevkit-beyond/)
-- [NostrPix - hackathon winner using NWC](https://x.com/Stromens/status/1893295223595282607)
+- [NostrPix - hackathon winner using NWC](https://devpost.com/software/zapzappi)
 - [Bitdoom](https://devpost.com/software/bitdoom)
