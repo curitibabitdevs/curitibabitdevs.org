@@ -27,6 +27,7 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/306539175"
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [GitHub+docs: no longer accept typo fixes to fight PR spam](https://github.com/lightningnetwork/lnd/pull/9565)
+- [Integrate Floresta as a Backend Option in LND](https://github.com/lightningnetwork/lnd/issues/9608)
 
 ## Layer 2
 - [USDT on lightning, taproot assets](https://bitcoinmagazine.com/technical/usdt-on-lightning-the-good-the-bad-and-the-unknown)
@@ -44,5 +45,5 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/306539175"
 - [Antoine Poinsot on Bitcoin Core’s Priorities](https://delvingbitcoin.org/t/antoine-poinsot-on-bitcoin-cores-priorities/1470)
 - [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
 - [dlcdevkit beyond](https://bennyb.dev/blog/dlcdevkit-beyond/)
-- [NostrPix - hackathon winner using NWC](https://devpost.com/software/zapzappi)
+- [NostrPix](https://devpost.com/software/zapzappi)
 - [Bitdoom](https://devpost.com/software/bitdoom)
