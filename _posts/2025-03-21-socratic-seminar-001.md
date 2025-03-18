@@ -28,6 +28,12 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/306539175"
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [GitHub+docs: no longer accept typo fixes to fight PR spam](https://github.com/lightningnetwork/lnd/pull/9565)
 
+## Layer 2
+- [USDT on lightning, taproot assets](https://bitcoinmagazine.com/technical/usdt-on-lightning-the-good-the-bad-and-the-unknown)
+- [Shielded CSV](https://www.youtube.com/watch?v=zpghEIWveJI&themeRefresh=1)
+- [Ark with covenants - tierotiero](https://x.com/tierotiero/status/1899053889019847128)
+- [Ark with covenants - stevenroose3](https://x.com/stevenroose3/status/1899651611385057519)
+
 ## New Releases
 - [ZEUS v0.10.0 is now available](https://x.com/zeusln/status/1900169282996035987)
 
@@ -37,8 +43,6 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/306539175"
 ## Miscellaneous
 - [Antoine Poinsot on Bitcoin Core’s Priorities](https://delvingbitcoin.org/t/antoine-poinsot-on-bitcoin-cores-priorities/1470)
 - [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
-- [Bitdoom](https://devpost.com/software/bitdoom)
 - [dlcdevkit beyond](https://bennyb.dev/blog/dlcdevkit-beyond/)
-- [Ark with covenants - tierotiero](https://x.com/tierotiero/status/1899053889019847128)
-- [Ark with covenants - stevenroose3](https://x.com/stevenroose3/status/1899651611385057519)
-- [NostrPix](https://x.com/Stromens/status/1893295223595282607)
+- [NostrPix - hackathon winner using NWC](https://x.com/Stromens/status/1893295223595282607)
+- [Bitdoom](https://devpost.com/software/bitdoom)
