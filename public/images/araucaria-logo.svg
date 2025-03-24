@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="250" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+    <!-- Tronco principal -->
+    <path d="M95 250 L105 250 L105 80 L95 80 Z" fill="#FF9900"/>
+    
+    <!-- Galhos principais horizontais -->
+    <path d="M100 90 L180 90 L180 95 L100 95" stroke="#FF9900" stroke-width="5" fill="none"/>
+    <path d="M100 90 L20 90 L20 95 L100 95" stroke="#FF9900" stroke-width="5" fill="none"/>
+    
+    <path d="M100 130 L150 130 L150 135 L100 135" stroke="#FF9900" stroke-width="5" fill="none"/>
+    <path d="M100 130 L50 130 L50 135 L100 135" stroke="#FF9900" stroke-width="5" fill="none"/>
+    
+    <!-- <path d="M100 170 L130 170 L130 175 L100 175" stroke="#FF9900" stroke-width="5" fill="none"/>
+    <path d="M100 170 L70 170 L70 175 L100 175" stroke="#FF9900" stroke-width="5" fill="none"/> -->
+    
+    <!-- Círculos da copa -->
+    <circle cx="180" cy="92" r="20" fill="#FF9900"/>
+    <circle cx="20" cy="92" r="20" fill="#FF9900"/>
+    
+    <circle cx="150" cy="132" r="18" fill="#FF9900"/>
+    <circle cx="50" cy="132" r="18" fill="#FF9900"/>
+    
+    <!-- <circle cx="130" cy="172" r="16" fill="#FF9900"/>
+    <circle cx="70" cy="172" r="16" fill="#FF9900"/> -->
+    
+    <!-- Copa superior -->
+    <circle cx="100" cy="60" r="22" fill="#FF9900"/>
+    
+    <!-- Sombra na base -->
+    <ellipse cx="100" cy="250" rx="25" ry="15" fill="#FF9900" opacity="1"/>
+</svg> 
