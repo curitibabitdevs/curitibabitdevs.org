@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminário Socrático 002"
-meetup: "https://www.meetup.com/curitiba-bitdevs/events/TBD"
+meetup: "https://www.meetup.com/curitiba-bitdevs/events/307447326/"
 ---
 
 ## Avisos
