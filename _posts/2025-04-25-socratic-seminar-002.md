@@ -38,3 +38,4 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/307447326/"
 ## Miscellaneous
 - [Multiple discussions about quantum computer theft and resistance](https://bitcoinops.org/en/newsletters/2025/04/04/)
 - [Cashu on BTC payserver](https://x.com/callebtc/status/1904683530929504474?t=poH147-Q618WPSbN9RYt4Q&s=19)
+- [Agora você pode visualizar todos os scripts revelados de endereço Taproot no Mempool.space](https://x.com/jaoNoctus/status/1911905675552104809)
