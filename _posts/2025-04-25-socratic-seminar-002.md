@@ -16,7 +16,7 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/307447326/"
 ## Warmup
 - [MIT Hackathon - Vinteum resident wins track](https://x.com/Vinteum_org/status/1909000853052109294)
 - [Zambia minerando bitcoin com excedente de energia](https://www.bbc.com/news/articles/cly4xe373p4o)
-- [Disponível na signet o beta do wrapper JavaScript do Joltz SDK](https://x.com/PresidioBitcoin/status/1909625011692069160)
+- [Disponível na signet o beta do wrapper JavaScript do Joltz SDK](https://x.com/Joltz_btc/status/1909634621886640579)
 - [Regtest in a pod](https://www.youtube.com/watch?v=zofo5k9Cwcg)
 
 ## Bitcoin
