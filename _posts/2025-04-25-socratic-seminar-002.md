@@ -22,11 +22,13 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/307447326/"
 ## Bitcoin
 - [bitcoin core v29.0](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-29.0.md)
 - [IBD 5 times faster wih SwiftSync](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
+- [Consensus clean up BIP draft](https://groups.google.com/g/bitcoindev/c/0tSvml90Qcw)
 
 ## New Releases
 - [lnbits 1.0](https://github.com/lnbits/lnbits/releases)
 - [PSBTV2 tool](https://bip370.org/)
 - [Fuzzamoto: Holistic Fuzzing for Bitcoin Protocol Implementations](https://github.com/dergoegge/fuzzamoto)
+- [secp256k1lab python lib](https://gnusha.org/pi/bitcoindev/d0044f9c-d974-43ca-9891-64bb60a90f1f@gmail.com/T/)
 
 ## Mining
 - [Antpool Templating Bug](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
