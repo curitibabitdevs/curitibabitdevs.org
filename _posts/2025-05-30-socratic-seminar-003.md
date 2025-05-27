@@ -39,6 +39,7 @@ Arbitrary Blockchain Content on Bitcoin](https://fc18.ifca.ai/preproceedings/6.p
  - [Legacy wallet removed](https://github.com/bitcoin/bitcoin/pull/28710)
  - [BIP 53: Disallow 64-byte transactions #1760](https://github.com/bitcoin/bips/pull/1760)
  - [miner: timelock the coinbase to the mined block's height](https://github.com/bitcoin/bitcoin/pull/32155)
+ - [Is Bitcoin ready for the quantum era?](https://chaincode.com/bitcoin-post-quantum.pdf)
 
 ## Mining
  - [Cambridge Digital Mining Industry Report](https://www.jbs.cam.ac.uk/wp-content/uploads/2025/04/2025-04-cambridge-digital-mining-industry-report.pdf)
