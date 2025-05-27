@@ -21,7 +21,9 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/307705138"
 ## OP_RETURN drama
 - [Peter Todd PR](https://github.com/bitcoin/bitcoin/pull/32359)
 - [policy: uncap datacarrier by default ](https://github.com/bitcoin/bitcoin/pull/32406)
+- [What is relay policy and why is it necessary?](https://antoinep.com/posts/relay_policy_drama/)
 - [btcplusplus debate](https://x.com/btcplusplus/status/1917693345037435217)
+- [Repeating 2014 discussion](https://x.com/w_s_bitcoin/status/1923829686653628725)
 - [Block with single tx - 896722](https://mempool.space/tx/b47eba144b4b9e9ee4e99f1db2081986f5ac59a7944780125e8c3360fec659c7)
 
 ### Mais formas de injetar dados arbitrários em txs
@@ -32,7 +34,9 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/307705138"
 Arbitrary Blockchain Content on Bitcoin](https://fc18.ifca.ai/preproceedings/6.pdf)
 
 ## Bitcoin
+ - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707/1)
  - [Vulnerability disclosure affecting old versions of Bitcoin Core](https://bitcoinops.org/en/newsletters/2025/05/16/#vulnerability-disclosure-affecting-old-versions-of-bitcoin-core)
+ - [Legacy wallet removed](https://github.com/bitcoin/bitcoin/pull/28710)
  - [BIP 53: Disallow 64-byte transactions #1760](https://github.com/bitcoin/bips/pull/1760)
  - [miner: timelock the coinbase to the mined block's height](https://github.com/bitcoin/bitcoin/pull/32155)
 
@@ -43,4 +47,4 @@ Arbitrary Blockchain Content on Bitcoin](https://fc18.ifca.ai/preproceedings/6.p
 ## Miscellaneous
  - [A First Successful Factorization of RSA 2048 Integer
 by D-Wave Quantum Computer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817698)
-
+ - [BIP172: Define Bitcoin Subunits as Satoshis](https://github.com/bitcoin/bips/pull/1841)
