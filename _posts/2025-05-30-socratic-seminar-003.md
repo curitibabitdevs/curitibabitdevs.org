@@ -48,3 +48,5 @@ Arbitrary Blockchain Content on Bitcoin](https://fc18.ifca.ai/preproceedings/6.p
  - [A First Successful Factorization of RSA 2048 Integer
 by D-Wave Quantum Computer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817698)
  - [BIP172: Define Bitcoin Subunits as Satoshis](https://github.com/bitcoin/bips/pull/1841)
+ - [Is Bitcoin ready for the quantum era?](https://x.com/chaincodelabs/status/1927191285208617046)
+ - [USDC is now LIVE on Lightning Network!](https://x.com/speedwallet/status/1927371882715631847)
