@@ -52,3 +52,4 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/308503337"
 - [Libbitcoin Benchmark - block 850k to 900k](https://x.com/evoskuil/status/1928622942692286838)
 - [BTCPayServer crashes on block 896727 coinbase transaction](https://x.com/btcpayserver/status/1922845019494318519)
 - [Fuzzamoto just found its first bug on a Bitcoin Core PR](https://x.com/dergoegge/status/1936093236226871794)
+- [COINOS outage and data loss incident](https://primal.net/e/nevent1qqsd2wlx3wq94sqgh66u9hfsevym55mse87efunrc8qpr0syr8mfezqn6eptp)
