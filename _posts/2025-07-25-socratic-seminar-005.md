@@ -38,7 +38,7 @@ Agradecemos a UFPR e ao Professor Mario pelo espaço cedido.
 
 ## New Releases
 
-- [Floresta v0.0.8](https://github.com/vinteumorg/Floresta/releases/tag/v0.8.0)
+- [Floresta v0.8.0](https://github.com/vinteumorg/Floresta/releases/tag/v0.8.0)
 - [Alby hub v1.18 with BOLT12 support](https://x.com/getAlby/status/1945849199423295977)
 
 ## Miscellaneous
