@@ -18,6 +18,7 @@ Agradecemos à UFPR e ao Professor Mário pelo espaço cedido.
 
 ## Warmup
 - [Bitcoin whitepaper 17 years anniversary](https://bitflyer.com/en-us/s/glossary/bitcoin-whitepaper)
+- [satsconf 2025](https://satsconf.com.br)
 - [Itoro Ukpong: meu caminho para o open-source em Bitcoin](https://blog.btrust.tech/my-path-to-full-time-bitcoin-open-source-development/)
 - [Novo fellow @gustingelin na @Vinteum_org](https://x.com/Vinteum_org/status/1980725315610767778)
 - [Time2Build: concurso de $25k para integrar pagamentos Bitcoin em OSS](https://atlas21.com/time2build-bringing-bitcoin-to-open-source-apps/)
