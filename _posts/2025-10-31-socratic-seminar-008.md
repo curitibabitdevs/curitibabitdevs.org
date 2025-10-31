@@ -25,6 +25,7 @@ Agradecemos à UFPR e ao Professor Mário pelo espaço cedido.
 ## Bitcoin Core
 
 - [Bitcoin Core recua sobre mudanças no OP_RETURN horas antes do release](https://protos.com/bitcoin-core-drops-op_return-deprecation-hours-before-v30-release/)
+- [Reduces CPU usage by adding logging levels and categories](https://github.com/bitcoin/bitcoin/pull/33517)
 
 ## BIPs & Proposals
 
