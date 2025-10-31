@@ -31,6 +31,7 @@ Agradecemos à UFPR e ao Professor Mário pelo espaço cedido.
 
 - [BIP: User-Defined Dynamic Relay Policy Script](https://github.com/bitcoin/bips/pull/1985)
 - [BIP321 substitui BIP21](https://x.com/TheBlueMatt/status/1970612483867255173)
+- [@LukeDashjr propoe BIP-444: Reduced Data Temporary Softfork](https://x.com/LukeDashjr/status/1982254844153913514)
 
 ## Research & Security
 
@@ -49,3 +50,4 @@ Agradecemos à UFPR e ao Professor Mário pelo espaço cedido.
 - [Microsoft pode atrasar o desenvolvimento do Bitcoin via GitHub](https://protos.com/microsoft-could-stall-bitcoin-development-via-github/)
 - [Cashu x Taproot Asset: recebendo pagamentos em THB](https://x.com/CashuBTC/status/1982726677651128538)
 - [Bitcoin Dojo: app educacional para devs Rust](https://x.com/BitcoinDojo1/status/1971485746403135686)
+- [GitHub suspende conta do @plebhash](https://x.com/plebhash/status/1984023607140610224)
