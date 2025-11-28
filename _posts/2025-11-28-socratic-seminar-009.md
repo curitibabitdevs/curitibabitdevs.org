@@ -18,6 +18,7 @@ Agradecemos à UFPR e ao Professor Mário pelo espaço cedido.
 
 ## Warmup
 
+- [Satsconf 2025 aconteceu este mês reunindo a comunidade Bitcoin](https://satsconf.com/)
 - [Host do Bitdevs Curitiba fica em 2º lugar na hackathon da Satsconf](https://devpost.com/software/simplicity-playground)
 - [PR de participante do Bitdevs Curitiba é mergeado no rust-bip39](https://github.com/rust-bitcoin/rust-bip39/pull/93)
 - [O mínimo que você precisa saber sobre Bitcoin](https://www.youtube.com/watch?v=0WGnyAWA1o0)
