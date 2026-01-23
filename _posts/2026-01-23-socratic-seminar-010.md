@@ -27,7 +27,7 @@ evento_so: "https://evento.so/p/evt_LxRp4Sb7kEszj7oG"
 
 ## Warmup
 
-- Alok faz show em Matinhos com [camiseta](https://curitibabitdevs.org/public/images/alok_satoshi_nakamoto.png) do Satoshi Nakamoto avaliada em [U$700](https://www.lyst.com/clothing/satoshi-nakamoto-graphic-print-t-shirt/)
+- Alok faz show em Matinhos com [camiseta](/public/images/alok_satoshi_nakamoto.png) do Satoshi Nakamoto avaliada em [U$700](https://www.lyst.com/clothing/satoshi-nakamoto-graphic-print-t-shirt/)
 - [Senators Move to Shield Non-Custodial Bitcoin Coders](https://www.theblock.co/post/385210/senators-move-to-shield-crypto-developers-as-lawmakers-race-toward-advancing-sweeping-digital-asset-bill)
 - [Doações / Petição / Abaixo assinado pela libertação de Bill and Keonne da Samourai Wallet.](https://billandkeonne.org/)
 - [Floresta now has a website](https://www.getfloresta.org/)
