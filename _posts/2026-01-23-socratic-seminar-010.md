@@ -20,11 +20,6 @@ evento_so: "https://evento.so/p/evt_LxRp4Sb7kEszj7oG"
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio na organização, comidas e bebidas.  
 - Agradecemos à [SEPT/UFPR](http://www.sept.ufpr.br/) e ao Prof. Mário pelo espaço cedido.
 
-## Formato
-
-- Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
-- É a reunião do legislativo Bitcoiner, focado no desenvolvimento técnico do protocolo (as leis que regem nosso patrimônio).
-
 ## Warmup
 
 - Alok faz show em Matinhos com [camiseta](/public/images/alok_satoshi_nakamoto.png) do Satoshi Nakamoto avaliada em [U$700](https://www.lyst.com/clothing/satoshi-nakamoto-graphic-print-t-shirt/)
@@ -56,7 +51,7 @@ evento_so: "https://evento.so/p/evt_LxRp4Sb7kEszj7oG"
 - [Lightning Network hits record capacity](https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc)
 - [Optech 387](https://bitcoinops.org/en/newsletters/2026/01/09/#using-ark-as-a-channel-factory): René Pickhardt wrote about [Ark as a Channel Factory: Compressed Liquidity Management for Improved Payment Feasibility](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
 - [Polar v4 also now supports automated simulations of realistic payment activity](https://x.com/lightningpolar/status/2008595651060547585)
-- [@luisschwab_ published koerier, a self-hosted LightningAddress server for LND](https://x.com/luisschwab_/status/1991197038969504204) https://crates.io/crates/koerier
+- [@luisschwab_](https://x.com/luisschwab_/status/1991197038969504204) [published koerier](https://crates.io/crates/koerier), a self-hosted LightningAddress server for LND
 
 ## Releases
 
