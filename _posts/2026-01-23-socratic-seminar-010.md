@@ -65,7 +65,7 @@ evento_so: "https://evento.so/p/evt_LxRp4Sb7kEszj7oG"
 
 ## Mining
 
-- [How Bitcoin minig works](https://x.com/nocontextmemes/status/2004930651934380456)
+- [How Bitcoin mining works](https://x.com/nocontextmemes/status/2004930651934380456)
 - [Not a BTC Lottery Win: NiceHash Says ‘Untagged’ Blocks Were Tests](https://cointelegraph.com/news/nicehash-untagged-bitcoin-blocks-solo-miner-myth)
 - [Stratum V2 is now native on Auradine Inc](https://x.com/Auradine_Inc/status/1991159535864803665)
 
