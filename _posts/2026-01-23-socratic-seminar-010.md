@@ -31,6 +31,8 @@ evento_so: "https://evento.so/p/evt_LxRp4Sb7kEszj7oG"
 - [Senators Move to Shield Non-Custodial Bitcoin Coders](https://www.theblock.co/post/385210/senators-move-to-shield-crypto-developers-as-lawmakers-race-toward-advancing-sweeping-digital-asset-bill)
 - [Doações / Petição / Abaixo assinado pela libertação de Bill and Keonne da Samourai Wallet.](https://billandkeonne.org/)
 - [Floresta now has a website](https://www.getfloresta.org/)
+- [With the new mempool API you can fetch precise fee rate recommendations](https://x.com/OrangeSurfBTC/status/1995331334655586322)
+- [A chart from @afribitcoiners maps 167 Bitcoin projects across 22 African countries.](https://x.com/afribitcoiners/status/2008562022439432405)
 
 ## Bitcoin Core
 
@@ -53,6 +55,8 @@ evento_so: "https://evento.so/p/evt_LxRp4Sb7kEszj7oG"
 
 - [Lightning Network hits record capacity](https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc)
 - [Optech 387](https://bitcoinops.org/en/newsletters/2026/01/09/#using-ark-as-a-channel-factory): René Pickhardt wrote about [Ark as a Channel Factory: Compressed Liquidity Management for Improved Payment Feasibility](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
+- [Polar v4 also now supports automated simulations of realistic payment activity](https://x.com/lightningpolar/status/2008595651060547585)
+- [@luisschwab_ published koerier, a self-hosted LightningAddress server for LND](https://x.com/luisschwab_/status/1991197038969504204) https://crates.io/crates/koerier
 
 ## Releases
 
