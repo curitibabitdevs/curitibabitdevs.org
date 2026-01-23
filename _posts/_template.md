@@ -2,113 +2,57 @@
 layout: post
 published: false
 type: socratic
-title: "Socratic Seminar TODO"
-meetup: "https://www.meetup.com/BitDevsNYC/"
+title: "Seminário Socrático XXX"
+meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/XXX"
+evento_so: "https://evento.so/p/evt_XXXX"
 ---
 <!--- TODO: remove `published: false` when creating new socratic --->
-<!--- TODO: replace meetup link with https://www.meetup.com/BitDevsNYC/events/<##replace##>/ --->
+<!--- TODO: replace meetup link with https://www.meetup.com/pt-br/curitiba-bitdevs/events/<##replace##>/ --->
+<!--- TODO: replace evento link with https://evento.so/p/<##replace##>/ --->
 
-## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+## Avisos
 
-## Presentation
--
+- Entrem no grupo do [Whatsapp](https://chat.whatsapp.com/LTMELFt3RCb3PqIjMDqzqD) para ajudar na curadoria dos encontros!
+- Entrem no Discord da [Vinteum](http://discord.gg/vinteum)
+- Siga Curitiba Bitdevs no [Twitter](https://twitter.com/curitibabitdevs)
+- Novos temas podem ser sugeridos nos [issues do GitHub do grupo](https://github.com/curitibabitdevs/curitibabitdevs.org/issues).
+- Respeite a privacidade dos participantes.
+- Os meetups nunca são gravados. Queremos todos à vontade para participar e discutir os assuntos, inclusive de forma anônima.
 
-## Mailing Lists, Meetings and Bitcoin Optech
-### Mailing Lists
-#### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- <!--- TODO: https://lists.linuxfoundation.org/pipermail/bitcoin-dev --->
+## Agradecimentos
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
+- Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio na organização, comidas e bebidas.  
+- Agradecemos à [SEPT/UFPR](http://www.sept.ufpr.br/) e ao Prof. Mário pelo espaço cedido.
 
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
--
+## Warmup
 
-### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - <!--- TODO replace: [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574) --->
-- Bitcoin Core general developer meetings
-	- <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#l-255) --->
-- Bitcoin Core wallet meetings
-	- <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#l-313) --->
-- Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+- []()
 
-### Optech
-- <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
+## Bitcoin Core
 
-## Network Data
--
+- []()
 
-## CVEs and Research
-### Research
--
+## BIPs & Proposals
 
-### InfoSec
--
+- []()
 
-## Pull Requests and repo updates
-### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+## Layer 2
 
-### [BDK](https://github.com/bitcoindevkit/bdk)
--
+- []()
 
-### [HWI](https://github.com/bitcoin-core/HWI)
--
+## Research & Security
 
-### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
+- []()
 
-### [libsecp](https://github.com/bitcoin-core/secp256k1)
--
+## Releases
 
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
-
-### [Core Lightning](https://github.com/ElementsProject/lightning)
--
-
-### [eclair](https://github.com/ACINQ/eclair/)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [lnd](https://github.com/lightningnetwork/lnd)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BLIPs](https://github.com/lightning/blips)
--
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
--
-
-## New Releases
--
-
-## Events and Podcasts
--
+- []()
 
 ## Mining
--
+
+- []()
 
 ## Miscellaneous
--
+
+- []()
