@@ -3,6 +3,7 @@ layout: post
 type: socratic
 title: "Seminário Socrático 012"
 evento_so: "https://app.evento.so/e/evt_UwZFCwwmBmZYu87J"
+meetup: "https://www.meetup.com/curitiba-bitdevs/events/313762932/"
 ---
 
 ## Avisos
