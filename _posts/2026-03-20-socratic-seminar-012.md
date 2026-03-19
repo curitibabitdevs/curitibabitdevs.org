@@ -24,6 +24,7 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/313762932/"
 
 - Vinteum BDL Recap
 - BTC++ Floripa Recap
+- [Vinteum New grantee to work on P2Poolv2](https://x.com/i/status/2033949468781850935)
 - [Bitcoin POW animation](https://x.com/i/status/1795165070072140201)
 - [Sigbash v2](https://x.com/arbedout/status/2020885323778044259)
 - [What's coming for Bitcoin Core v31](https://x.com/bitschmidty/status/2026270728698393081)
@@ -40,6 +41,7 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/313762932/"
 - [Broadcast de transações próprias via conexões Tor/I2P de curta duração](https://github.com/bitcoin/bitcoin/pull/29415)
 - [rpc,net: Add private broadcast RPCs](https://github.com/bitcoin/bitcoin/pull/34329)
 - [Problema de performance adversarial no scanning de silent payments (BIP-352)](https://groups.google.com/g/bitcoindev/c/tgcAQVqvzVg/m/--CkDP2xBQAJ)
+- [Bitcoin core version 31 release-candidate](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Notes-Draft)
 
 ## BIPs & Proposals
 
