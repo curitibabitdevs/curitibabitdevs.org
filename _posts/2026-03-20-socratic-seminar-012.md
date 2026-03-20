@@ -91,3 +91,6 @@ meetup: "https://www.meetup.com/curitiba-bitdevs/events/313762932/"
   - [Issue relacionada no mainnet-observer](https://github.com/0xB10C/mainnet-observer/issues/142)
 - [Tesouro dos EUA reconhece usos legítimos de mixers ao Congresso](https://atlas21.com/usa-treasury-acknowledges-legitimate-uses-of-mixers-to-congress/)
 - [Tornado Cash: Roman Storm pode pegar 40 anos enquanto governo busca novo julgamento](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
+- [pubkey](https://pubky.app/)
+- [Introducing USDT Swaps: From Sats to Stablecoins in Seconds](https://blog.boltz.exchange/p/introducing-usdt-swaps-from-sats)
+- [bitcoin-tui](https://github.com/janb84/bitcoin-tui)
