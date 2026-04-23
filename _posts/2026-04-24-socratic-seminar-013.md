@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 type: socratic
 title: "Seminário Socrático 013"
 meetup: "https://www.meetup.com/curitiba-bitdevs/events/314408445/"
@@ -26,18 +25,12 @@ evento_so: "https://app.evento.so/e/evt_mgRMRNaAqPTDh6J6"
 - [Brazilian Bitaxe users](https://x.com/eddieoz/status/2039286072224448699)
 - [Jack Dorsey's Square automatically enabled bitcoin payments are rolling out to eligible U.S. Square sellers.](https://x.com/Square/status/2038647458390294726)
 - [Two block reorg at height 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
-- [Bitcoin and quantum computing: FUD courtesy of Google and the Ethereum Foundation](https://atlas21.com/bitcoin-and-quantum-computing-fud-courtesy-of-google-and-the-ethereum-foundation/)
 - [NYT says Adam Back is Satoshi Nakamoto](https://archive.ph/iRBng#selection-483.50-483.66)
 - [Polymarket opens betting on Satoshi’s identity in new documentary, Adam Back leads](https://cryptobriefing.com/polymarket-satoshis-identity-bets-adam-back-leads/)
 
 ## Bitcoin Core
 
 - [tor: enable PoW defenses for automatically created hidden services](https://github.com/bitcoin/bitcoin/pull/33414)
-- Youtuber Bruno Garcia
-  - [Entenda teste de mutação de uma forma simples](https://www.youtube.com/watch?v=q3QBGwCdkCo)
-  - [Explicação da vulnerabilidade de 27 anos no OpenBSD](https://www.youtube.com/watch?v=uxVlTn6rqSI)
-  - [O que é ASMap no Bitcoin Core? Como isso previne ataque eclipse?](https://www.youtube.com/watch?v=50yuH35bV5s)
-  - [Como surgiu o teste fuzzing?](https://www.youtube.com/watch?v=Lxx2HZvq5_U)
 
 ## BIPs & Proposals
 
@@ -54,12 +47,18 @@ evento_so: "https://app.evento.so/e/evt_mgRMRNaAqPTDh6J6"
 
 - [Fake Ledger app on App Store drains American musician's 5.9 BTC](https://www.theblock.co/post/397155/g-love-loses-btc-fake-ledger)
 - [How wallet fingerprints damage Payjoin privacy](https://payjoin.org/blog/2026/03/25/wallet-fingerprints-payjoin-privacy)
+
+## Quantum
+
+- [Bitcoin and quantum computing: FUD courtesy of Google and the Ethereum Foundation](https://atlas21.com/bitcoin-and-quantum-computing-fud-courtesy-of-google-and-the-ethereum-foundation/)
 - [Quantum-Safe Bitcoin Transactions Without Softforks](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
-  - https://x.com/avihu28/status/2042287457530478720
-  - https://webitcoin.com.br/bitcoin-proposta-busca-protecao-quantica-sem-soft-fork/
+  - [https://x.com/avihu28/status/2042287457530478720](https://x.com/avihu28/status/2042287457530478720)
+  - [https://webitcoin.com.br/bitcoin-proposta-busca-protecao-quantica-sem-soft-fork/](https://webitcoin.com.br/bitcoin-proposta-busca-protecao-quantica-sem-soft-fork/)
 - [2.5 KB post-quantum signatures across multiple stateful devices](https://delvingbitcoin.org/t/shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices/2355)
+- [Optech 395 - Ethan Heilman and Pieter Wuille discussion about cryptographic agility in Bitcoin](https://bitcoinops.org/en/newsletters/2026/03/06/#algorithm-agility-for-bitcoin)
 - [Post-Quantum BIP-86 Recovery via zk-STARK Proof of BIP-32 Seed Knowledge](https://stacker.news/items/1467592)
   - [STARK – Zero-Knowledge Proof Protocol by Starkware: Eli Ben-Sasson & Avihu Levy at Web3 Summit](https://www.youtube.com/watch?v=1KSwVIZ82hs&t=429s)
+- [Edil e José Storopoli comentam a ameaça quântica ao Bitcoin](https://youtu.be/qtB1XU9Oz2g?si=5mhNQO4eBkNGLhGw)
 
 ## Releases
 
@@ -77,11 +76,14 @@ evento_so: "https://app.evento.so/e/evt_mgRMRNaAqPTDh6J6"
 ## Miscellaneous
 
 - [I don't want your PRs anymore](https://stacker.news/items/1467031)
-- [Edil e José Storopoli comentam a ameaça quântica ao Bitcoin](https://youtu.be/qtB1XU9Oz2g?si=5mhNQO4eBkNGLhGw)
-- [Optech 395 - Ethan Heilman and Pieter Wuille discussion about cryptographic agility in Bitcoin](https://bitcoinops.org/en/newsletters/2026/03/06/#algorithm-agility-for-bitcoin)
-- [what happens when one person runs 3000 nodes?](https://stacker.news/items/1463982)
+- [What happens when one person runs 3000 nodes?](https://stacker.news/items/1463982)
 - [A SHA-256 Hash That Is Also a Valid ECDSA Signature](https://github.com/RobinLinus/sha2-ecdsa)
 - [SEC sets conditions for crypto trading apps to stay outside broker rules](https://cryptobriefing.com/sec-sets-conditions-crypto-trading-apps-stay-outside-broker-rules/)
 - [Iran demands crypto fees for ships passing Hormuz during ceasefire](https://archive.ph/A5Tvh#selection-1581.0-1581.66)
 - [PLS manifesto](https://x.com/i/status/2044076663051317359)
 - [New BJP visual identity](https://github.com/PrivateLawSociety/pls-bjp/pull/23)
+- Youtuber Bruno Garcia
+  - [Entenda teste de mutação de uma forma simples](https://www.youtube.com/watch?v=q3QBGwCdkCo)
+  - [Explicação da vulnerabilidade de 27 anos no OpenBSD](https://www.youtube.com/watch?v=uxVlTn6rqSI)
+  - [O que é ASMap no Bitcoin Core? Como isso previne ataque eclipse?](https://www.youtube.com/watch?v=50yuH35bV5s)
+  - [Como surgiu o teste fuzzing?](https://www.youtube.com/watch?v=Lxx2HZvq5_U)
