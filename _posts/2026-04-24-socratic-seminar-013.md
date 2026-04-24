@@ -31,6 +31,7 @@ evento_so: "https://app.evento.so/e/evt_mgRMRNaAqPTDh6J6"
 ## Bitcoin Core
 
 - [tor: enable PoW defenses for automatically created hidden services](https://github.com/bitcoin/bitcoin/pull/33414)
+- [Optech 402](https://bitcoinops.org/en/newsletters/2026/04/24/#hornet-node-s-declarative-executable-specification-of-bitcoin-consensus-rules) Update Hornet UTXO(1) discussed at the [bitdevs 011](https://curitibabitdevs.org/2026-02-20-socratic-seminar-011)
 
 ## BIPs & Proposals
 
@@ -42,6 +43,7 @@ evento_so: "https://app.evento.so/e/evt_mgRMRNaAqPTDh6J6"
 
 - [Second hires Blockstream developers](https://bitcoinmagazine.com/business/secondhqs-bark-boasts-new-era-of-bitcoin-payments-drawing-in-former-blockstream-developers)
 - [Um estudo comparativo de usabilidade entre o Pix e o Lightning Network para pagamentos instantâneos presenciais no varejo](https://www.bcb.gov.br/conteudo/eventos/Documents/moedas_digitais/tokenizacao/WorkTOK-Mimeo-TECH_3B_A_a_Um_estudo_comparativo_de_usabilidade_entre_o_Pix_e_o_Lightning_Network_para_pagtos_instantaneos.pdf)
+- [Optech 402](https://bitcoinops.org/en/newsletters/2026/04/24/#onion-message-jamming-in-the-lightning-network) [Erick Cestari posted to Delving Bitcoin about the onion message jamming problem affecting the Lightning Network](https://delvingbitcoin.org/t/onion-message-jamming-in-the-lightning-network/2414) 
 
 ## Research & Security
 
@@ -87,3 +89,4 @@ evento_so: "https://app.evento.so/e/evt_mgRMRNaAqPTDh6J6"
   - [Explicação da vulnerabilidade de 27 anos no OpenBSD](https://www.youtube.com/watch?v=uxVlTn6rqSI)
   - [O que é ASMap no Bitcoin Core? Como isso previne ataque eclipse?](https://www.youtube.com/watch?v=50yuH35bV5s)
   - [Como surgiu o teste fuzzing?](https://www.youtube.com/watch?v=Lxx2HZvq5_U)
+  - [Sobre ansiedade e inteligência artificial](https://www.youtube.com/watch?v=jm4XNa3hQ-s)
