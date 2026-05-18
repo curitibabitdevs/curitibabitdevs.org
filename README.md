@@ -14,7 +14,7 @@ site locally. Once they're setup:
 
 ## Making a Post
 
-To make a new post, make a new file in `_posts/` with a title of
+To make a new post, create a new file in `_posts/` based on the [template](_posts/_template.md) with a title of
 `YYYY-MM-DD-title-goes-here`. At the top of the file you'll want to provide the
 following information:
 
@@ -23,10 +23,11 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
+meetup: https://www.meetup.com/curitiba-bitdevs/events/[event id here]/
 ---
 ```
 
+Commit message example: feat(posts): add nov 2025
 After that, it's just simple markdown. The site will auto-generate the rest.
 
 ## Changing Site Data
