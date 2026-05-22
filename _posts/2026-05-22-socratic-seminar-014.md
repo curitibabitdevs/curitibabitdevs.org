@@ -53,7 +53,7 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 - [BOLTs #1228 specifies zero-fee commitment (0FC) channels](https://github.com/lightning/bolts/issues/1228)
 - [Amboss launched RailsX, letting users trade bitcoin against USDT-L and USDC-L through LN without bridges](https://amboss.tech/blog/railsx-launch)
 
-## Research / Security
+## Research & Security
 
 - [Formal verification of secp256k1 modular scalar multiplication](https://groups.google.com/g/bitcoindev/c/l7AdGAKd1Oo)
 - [Quantum Bitcoin Claims Hit A Wall](https://bitcoinquantum.space/part4/)
