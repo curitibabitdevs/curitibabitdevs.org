@@ -27,6 +27,7 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 - [AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase](https://www.tradingview.com/news/cointelegraph:9b7210c63094b:0-ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase/)
 - [Novo board Btrust conta com membro da Vinteum](https://x.com/btrustteam/status/2056806271517364501?s=46&t=aYLcWVEAtjMFXiqIKsjSPQ)
 - [Heartbeat da opensats](https://heartbeat.opensats.org/)
+- [Lançamento do livro](https://blog.livrariadavila.com.br/event/bitcoin-o-codigo-da-liberdade-rafael-marchello-villa-ed-independente/)
 
 ## Bitcoin Core / Infra
 
