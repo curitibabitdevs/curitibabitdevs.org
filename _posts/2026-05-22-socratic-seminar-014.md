@@ -28,6 +28,7 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 ## Warmup
 
 - [Lançamento do livro](https://blog.livrariadavila.com.br/event/bitcoin-o-codigo-da-liberdade-rafael-marchello-villa-ed-independente/)
+- [Novo board Btrust conta com membro da Vinteum](https://x.com/btrustteam/status/2056806271517364501)
 - [A Vegas Stage Is Not The Network](https://x.com/blockchainchick/status/2048361806318424461)
 - [Developer Shield Holds The Blockchain Regulatory Certainty Act (BRCA)](https://coincenter.org/the-brca-survived-claritys-markup-do-not-give-it-up-now/)
 
