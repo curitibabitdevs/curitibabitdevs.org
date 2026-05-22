@@ -21,10 +21,6 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio na organização, comidas e bebidas.  
 - Agradecemos à [SEPT/UFPR](http://www.sept.ufpr.br/) e ao Prof. Mário pelo espaço cedido.
 
-## Sugira um tema no GitHub
-
-- [Tópicos 2026 05](https://github.com/curitibabitdevs/curitibabitdevs.org/issues/47)
-
 ## Warmup
 
 - [New Film Reopens The Satoshi Identity Hunt](https://www.theblock.co/post/398423/finding-satoshi-documentary-makes-case-hal-finney-len-sassaman-bitcoins-co-creators)
