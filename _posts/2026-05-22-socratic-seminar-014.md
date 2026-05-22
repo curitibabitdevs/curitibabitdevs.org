@@ -24,11 +24,9 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 ## Warmup
 
 - [New Film Reopens The Satoshi Identity Hunt](https://www.theblock.co/post/398423/finding-satoshi-documentary-makes-case-hal-finney-len-sassaman-bitcoins-co-creators)
-- [Tether Freezes $344M USDT With OFAC Coordination](https://tether.io/news/tether-supports-freeze-of-more-than-344-million-in-usdt-in-coordination-with-ofac-and-u-s-law-enforcement/)
-- [Paul Sztorc Fork Tests Drivechain Demand](https://x.com/Truthcoin/status/2047639261453680838)
-- [A Vegas Stage Is Not The Network](https://x.com/blockchainchick/status/2048361806318424461)
 - [AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase](https://www.tradingview.com/news/cointelegraph:9b7210c63094b:0-ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase/)
 - [Novo board Btrust conta com membro da Vinteum](https://x.com/btrustteam/status/2056806271517364501?s=46&t=aYLcWVEAtjMFXiqIKsjSPQ)
+- [Heartbeat da opensats](https://heartbeat.opensats.org/)
 
 ## Bitcoin Core / Infra
 
@@ -68,5 +66,7 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 
 - [Block Bitkey wallet Makes Reserves Verifiable](https://x.com/BitcoinatBlock/status/2048788236005519410)
 - [Developer Shield Holds The Blockchain Regulatory Certainty Act (BRCA)](https://coincenter.org/the-brca-survived-claritys-markup-do-not-give-it-up-now/)
-- [Heartbeat da opensats](https://heartbeat.opensats.org/)
 - [Blockstream Shares Liquid Development Roadmap: 0-Conf, PQ Readiness, BitVM & More](https://blog.liquid.net/blockstream-shares-liquid-development-roadmap-0-conf-pq-readiness-bitvm-more/)
+- [Tether Freezes $344M USDT With OFAC Coordination](https://tether.io/news/tether-supports-freeze-of-more-than-344-million-in-usdt-in-coordination-with-ofac-and-u-s-law-enforcement/)
+- [Paul Sztorc Fork Tests Drivechain Demand](https://x.com/Truthcoin/status/2047639261453680838)
+- [A Vegas Stage Is Not The Network](https://x.com/blockchainchick/status/2048361806318424461)
