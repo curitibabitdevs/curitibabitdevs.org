@@ -21,10 +21,6 @@ evento_so: "https://app.evento.so/e/evt_nveYxXiG1S6KCub3"
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio na organização, comidas e bebidas.  
 - Agradecemos à [SEPT/UFPR](http://www.sept.ufpr.br/) e ao Prof. Mário pelo espaço cedido.
 
-## Sugira um tema no GitHub
-
-- [Tópicos 2026 05](https://github.com/curitibabitdevs/curitibabitdevs.org/issues/47)
-
 ## Warmup
 
 - [Lançamento do livro](https://blog.livrariadavila.com.br/event/bitcoin-o-codigo-da-liberdade-rafael-marchello-villa-ed-independente/)
