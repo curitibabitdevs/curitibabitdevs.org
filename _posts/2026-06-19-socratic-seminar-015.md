@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático XXX"
+title: "Seminário Socrático 015"
 meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/315204470"
 evento_so: "https://evento.so/p/evt_dJzxNdKdwRftdAHK"
 ---
