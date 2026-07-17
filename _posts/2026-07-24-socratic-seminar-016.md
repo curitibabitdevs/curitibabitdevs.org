@@ -35,15 +35,18 @@ evento_so: "https://evento.so/p/evt_XXXX"
 
 ## BIPs & Proposals
 
-- []()
+- [Public key recovery for EC leaves in P2MR (BIP-360)](https://delvingbitcoin.org/t/public-key-recovery-for-ec-leaves-in-p2mr-bip-360/2603)
 
 ## Layer 2
 
-- []()
+- [LDK async payments: receiving while offline](https://lightningdevkit.org/blog/async-payments-receiving-while-offline)
+- [Non-custodial accounts in Blink wallet](https://pt-br.blink.sv/blog/non-custodial-accounts-in-blink-wallet)
+- [Agent to Agent payments](https://x.com/lightningmodeAI/status/2053944023036141677)
+- [Ark unilateral exits from Noah wallet](https://x.com/stutxo/status/2077125607058719097)
 
 ## Research & Security
 
-- []()
+- [Garbled circuit-based verification on Bitcoin Signet](https://x.com/AlpenLabs/status/2075198584891281478)
 
 ## Releases
 
@@ -51,7 +54,7 @@ evento_so: "https://evento.so/p/evt_XXXX"
 
 ## Mining
 
-- []()
+- [Mining](https://x.com/i/status/2074926276884787685)
 
 ## Miscellaneous
 
