@@ -66,4 +66,4 @@ Hosts: [@luisfg21M](https://x.com/luisfg21M), [@diogock](https://x.com/diogock) 
 
 - [CFTC: posicionamento sobre código passivo e desenvolvedores](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
 - [Alkanes: participação nas transações Bitcoin em um período de 90 dias](https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows)
-- [End-to-end encrypted, peer-to-peer messenger with a built-in wallet and verifiable identities.]https://github.com/MiguelMedeiros/ghostly)
+- [End-to-end encrypted, peer-to-peer messenger with a built-in wallet and verifiable identities.](https://github.com/MiguelMedeiros/ghostly)
