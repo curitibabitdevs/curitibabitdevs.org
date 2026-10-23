@@ -32,7 +32,7 @@ Hosts: [@luisfg21M](https://x.com/luisfg21M), [@diogock](https://x.com/diogock) 
 - [Bitcoin enviado pela rede Find My da Apple](https://x.com/callebtc/status/2105433491437486248)
 
 ## BIPs & Proposals
-
+- [BIP379 Descriptor syntx for hash preimage](https://x.com/bitcoinoptech/status/2113588818200641830)
 - [Shielded Bitcoin: proposta de transações privadas sem soft fork](https://bitcoinmagazine.com/technical/alloc-init-releases-shielded-bitcoin-proposal-for-private-bitcoin-transactions)
   ([referência complementar](https://x.com/Bitcoin_Devs/status/2103861357443797338))
 
