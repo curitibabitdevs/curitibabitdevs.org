@@ -16,7 +16,6 @@ Hosts: [@luisfg21M](https://x.com/luisfg21M), [@diogock](https://x.com/diogock) 
 
 ## Avisos
 
-- Entrem no grupo do [Whatsapp](https://chat.whatsapp.com/LTMELFt3RCb3PqIjMDqzqD) para ajudar na curadoria dos encontros!
 - Entrem no Discord da [Vinteum](http://discord.gg/vinteum)
 - Siga Curitiba Bitdevs no [Twitter](https://twitter.com/curitibabitdevs)
 - Sugestões e referências completas estão na [issue de tópicos deste encontro](https://github.com/curitibabitdevs/curitibabitdevs.org/issues/68).
@@ -67,3 +66,4 @@ Hosts: [@luisfg21M](https://x.com/luisfg21M), [@diogock](https://x.com/diogock) 
 
 - [CFTC: posicionamento sobre código passivo e desenvolvedores](https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425)
 - [Alkanes: participação nas transações Bitcoin em um período de 90 dias](https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows)
+- [End-to-end encrypted, peer-to-peer messenger with a built-in wallet and verifiable identities.]https://github.com/MiguelMedeiros/ghostly)
