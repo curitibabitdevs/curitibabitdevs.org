@@ -11,6 +11,12 @@ on:
   push:
     branches: ["master"]
 
+  # The upcoming/past split is decided at build time, so a once-a-day rebuild
+  # is what moves an event from "Próximos eventos" to the archive after it
+  # happens, without waiting for the next post.
+  schedule:
+    - cron: '17 3 * * *'
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
