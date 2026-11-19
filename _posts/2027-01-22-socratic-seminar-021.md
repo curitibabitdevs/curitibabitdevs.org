@@ -12,7 +12,6 @@ title: "Seminário Socrático 021"
 
 ## Avisos
 
-- Entrem no grupo do [Whatsapp](https://chat.whatsapp.com/LTMELFt3RCb3PqIjMDqzqD) para ajudar na curadoria dos encontros!
 - Entrem no Discord da [Vinteum](http://discord.gg/vinteum)
 - Siga Curitiba Bitdevs no [Twitter](https://twitter.com/curitibabitdevs)
 - Novos temas podem ser sugeridos nos [issues do GitHub do grupo](https://github.com/curitibabitdevs/curitibabitdevs.org/issues).
