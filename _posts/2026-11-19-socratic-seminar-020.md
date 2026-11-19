@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 type: socratic
 title: "Seminário Socrático 020"
 meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/317445710"
