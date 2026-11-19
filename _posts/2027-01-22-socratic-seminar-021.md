@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 type: socratic
 title: "Seminário Socrático 021"
 # meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/XXX"
