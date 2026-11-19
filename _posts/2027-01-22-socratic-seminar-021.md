@@ -1,12 +1,10 @@
 ---
 layout: post
-published: false
 type: socratic
 title: "Seminário Socrático 021"
-meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/XXX"
-evento_so: "https://evento.so/p/evt_XXXX"
+# meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/XXX"
+# evento_so: "https://evento.so/p/evt_XXXX"
 ---
-<!--- TODO: remove `published: false` when creating new socratic --->
 <!--- TODO: replace meetup link with https://www.meetup.com/pt-br/curitiba-bitdevs/events/<##replace##>/ --->
 <!--- TODO: replace evento link with https://evento.so/p/<##replace##>/ --->
 
