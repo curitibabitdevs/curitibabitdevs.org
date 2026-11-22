@@ -5,11 +5,19 @@ Simple Jekyll site for hosting all of the links from meetups past and future.
 ## Development
 
 You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the
-site locally. Once they're setup:
+site locally.
+
+For Linux:
+* Run `sudo apt install ruby ruby-dev build-essential`
+* Run `export PATH="$(ruby -r rubygems -e 'print Gem.user_dir')/bin:$PATH" bundle install`
+* Run `gem install --user-install bundler -v 2.6.6`
+* Run `bundle config get path`
+
+Once they're setup:
 
 * Clone the repository and go into the directory
 * Run `bundle install`
-* Run `jekyll serve`
+* Run `bundle exec jekyll serve`
 * Go to http://localhost:4000
 
 ## Making a Post
