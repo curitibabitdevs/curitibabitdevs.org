@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 type: socratic
 title: "Seminário Socrático 021"
 # meetup: "https://www.meetup.com/pt-br/curitiba-bitdevs/events/XXX"
@@ -22,35 +21,3 @@ title: "Seminário Socrático 021"
 
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio na organização, comidas e bebidas.  
 - Agradecemos à [SEPT/UFPR](http://www.sept.ufpr.br/) e ao Prof. Mário pelo espaço cedido.
-
-## Warmup
-
-- []()
-
-## Bitcoin Core
-
-- []()
-
-## BIPs & Proposals
-
-- []()
-
-## Layer 2
-
-- []()
-
-## Research & Security
-
-- []()
-
-## Releases
-
-- []()
-
-## Mining
-
-- []()
-
-## Miscellaneous
-
-- []()
